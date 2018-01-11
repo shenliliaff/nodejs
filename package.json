@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "af",
   "main": "censortext.js",
+  "repository":{
+   "type":"git",
+   "url":"https://github.com/shenliliaff/nodejs.git"
+  },
   "scripts": {
     "test": "1"
   },
