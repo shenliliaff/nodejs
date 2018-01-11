@@ -1,0 +1,14 @@
+{
+  "name": "censorify",
+  "version": "1.0.0",
+  "description": "af",
+  "main": "censortext.js",
+  "scripts": {
+    "test": "1"
+  },
+  "keywords": [
+    "af"
+  ],
+  "author": "af",
+  "license": "ISC"
+}
